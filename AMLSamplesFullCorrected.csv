@@ -1,0 +1,50 @@
+,Index,FileName,BioLabel,Timepoint,Gender,PatientID,Age,statuse,Time.from.diagnosis.to.relapse,treatment.outcome,cytogenetics,BM.Transplantaion,comments,cleaned,patterns
+1,1,1_1421_2_cells_found-concat_Live_singlets.fcs,1421,d0,m,1,31,live,, stable remission,t(8:21),no,secondary AML,1_1421_2_cells_found-concat_Live_singletsCD45midHigh_Ungated_viSNE_Ungated_viSNE_CD45mid.fcs,1_1421
+2,2,2_1439_cells_found_normalized_Live_singlets.fcs,1439,d14,m,1,NA,,,,,,,2_1439_cells_found_normalized_Live_singletsCD45midHigh_Ungated_viSNE_Ungated_viSNE_CD45mid.fcs,2_1439
+3,3,3_20450_cells_found_normalized_Live_singlets.fcs,20450,d0,f,2,53,live,20 months,,Normal,yes,,,3_20450
+4,4,4_20503_cells_found_normalized_Live_singlets.fcs,20503,d14,f,2,NA,,,,,,,,4_20503
+5,5,5_21702_cells_found_normalized_Live_singlets.fcs,21702,rel,f,2,NA,,,,,,,,5_21702
+6,6,6_21937_cells_found_normalized_Live_singlets.fcs,21937,rem,f,2,NA,,,,,,,,6_21937
+7,7,7_1555_cells_found_normalized_Live_singlets.fcs,1555,d0,m,3,63,dead,11 months,,Normal,no,,,7_1555
+8,8,8_1573_cells_found_normalized_Live_singlets.fcs,1573,d14,m,3,NA,,,,,,,,8_1573
+9,9,9_21017_cells_found_normalized_Live_singlets.fcs,21017,rel,m,3,NA,,,,,,,,9_21017
+10,10,10_1539_cells_found_normalized_Live_singlets.fcs,1539,d0,f,4,53,live,23 months,,NPMI+,yes,,,10_1539
+11,11,11_1562_cells_found_normalized_Live_singlets.fcs,1562,d14,f,4,NA,,,,,,,,11_1562
+12,12,12_40060_cells_found_normalized_Live_singlets.fcs,40060,rel,f,4,NA,,,,,,,,12_40060
+13,13,13_1302_cells_found_normalized_Live_singlets.fcs,1302,d0,m,5,74,dead,18 months,,Normal,no,sevear anemia before AML diag.,,13_1302
+14,14,14_1327_cells_found_normalized_Live_singlets.fcs,1327,d14,m,5,NA,,,,,,,,14_1327
+15,15,15_20409_cells_found_normalized_Live_singlets.fcs,20409,rel,m,5,NA,,,,,,,,15_20409
+16,16,16_705_cells_found_normalized_Live_singlets.fcs,705,d0,f,6,90,dead, year after treatment ,,,no,secondary AML,,16_705
+17,17,17_734_cells_found_normalized_Live_singlets.fcs,734,d14,f,6,NA,,,,,,,,17_734
+18,18,18_21350_cells_found_normalized_Live_singlets.fcs,21350,d0,f,7,50,live,9 months,,Normal,yes,,,18_21350
+19,19,19_21410_cells_found_normalized_Live_singlets.fcs,21410,d14,f,7,NA,,,,,,,,19_21410
+20,20,20_22128_cells_found_normalized_Live_singlets.fcs,22128,rel,f,7,NA,,,,,,,,20_22128
+21,21,21_20939_cells_found_normalized_Live_singlets.fcs,20939,d0,f,8,71,dead,,refractory disease-died 9 month from diagnosis,Normal,no,,,21_20939
+22,22,22_20987_cells_found_normalized_Live_singlets.fcs,20987,d14,f,8,NA,,,,,,,,22_20987
+23,23,23_20196_cells_found_normalized_Live_singlets.fcs,20196,d14,m,9,65,live,20 months,,Normal,no,,,23_20196
+24,24,24_20121_cells_found_normalized_Live_singlets.fcs,20121,d0,m,9,NA,,,,,,,,24_20121
+25,25,25_22436_cells_found_normalized_Live_singlets.fcs,22436,rel,m,9,NA,,,,,,,,25_22436
+26,26,26_22180_cells_found_normalized_Live_singlets.fcs,22180,d0,m,10,65,dead,,refractory disease-died 8 month from diagnosis,DNMT3a+,no,,,26_22180
+27,27,27_22234_2_cells_fou-concat_Live_singlets.fcs,22234,d14,m,10,NA,,,,,,,,27_22234
+28,28,28_20836_cells_found_normalized_Live_singlets.fcs,20836,d0,f,11,42,dead,,refractory disease (died 1 YEAR from diagnosis),Normal,yes,,,28_20836
+29,29,29_20910_cells_found_normalized_Live_singlets.fcs,20910,d14,f,11,NA,,,,,,,,29_20910
+30,30,30_22041_cells_found_normalized_Live_singlets.fcs,22041,d0,m,12,43,live,,,Normal,yes,Mixed phenotype,,30_22041
+31,31,31_22103_cells_found_normalized_Live_singlets.fcs,22103,d14,m,12,NA,,,,,,,,31_22103
+32,32,32_20949_cells_found_normalized_Live_singlets.fcs,20949,d0,m,13,60,live,,,FLT3-ITD+,yes,,,32_20949
+33,33,33_21016_cells_found_normalized_Live_singlets.fcs,21016,d14,m,13,NA,,,,,,,,33_21016
+34,34,34_21735_cells_found_normalized_Live_singlets.fcs,21735,d0,m,14,66,live,, stable remission,NPMI+,no,,,34_21735
+35,35,35_21795_2_cells_found_normalized_Live_singlets.fcs,21795,d14,m,14,NA,,,,,,,,35_21795
+36,36,36_21245_cells_found_normalized_Live_singlets.fcs,21245,d0,m,15,19,live,, stable remission,Normal,yes,,,36_21245
+37,37,37_21299_2_cells_found_normalized_Live_singlets.fcs,21299,d14,m,15,NA,,,,,,,,37_21299
+38,38,38_21024_cells_found_normalized_Live_singlets.fcs,21024,d0,m,16,70,dead,,died 13 months from diag.,FLT3-ITD+ NPMI+,no,,,38_21024
+39,39,39_21088_cells_found_normalized_Live_singlets.fcs,21088,d14,m,16,NA,,,,,,,,39_21088
+40,40,40_21646_cells_found_normalized_Live_singlets.fcs,21646,d0,f,17,66,dead,,died 2 months from diag.,Normal,no,,,40_21646
+41,41,41_21716_cells_found_normalized_Live_singlets.fcs,21716,d14,f,17,NA,,,,,,,,41_21716
+42,42,42_21278_cells_found_normalized_Live_singlets.fcs,21278,d0,m,18,48,live,,,Normal,no,,,42_21278
+43,43,43_21346_2_cells_found_normalized_Live_singlets.fcs,21346,d14,m,18,NA,,,,,,,,43_21346
+44,44,44_22031_2_cells_found_normalized_Live_singlets.fcs,22031,d0,f,19,41,live,,,Normal,yes,,,44_22031
+45,45,45_22088_cells_found_normalized_Live_singlets.fcs,22088,d14,f,19,NA,,,,,,,,45_22088
+46,46,46_22276_cells_found_normalized_Live_singlets.fcs,22276,d0,f,20,64,live,, stable remission,IDH2+NPMI+,no,,,46_22276
+47,47,47_22356_2_cells_found_normalized_Live_singlets.fcs,22356,d14,f,20,NA,,,,,,,,47_22356
+48,48,48_21205_cells_found_normalized_Live_singlets.fcs,21205,d0,f,21,50,live,,,NPMI+,yes,,,48_21205
+49,49,49_21254_cells_found_normalized_Live_singlets.fcs,21254,d14,f,21,NA,,,,,,,,49_21254
