@@ -1,14 +1,15 @@
 
 
 ## tuMap package installation and code requirements
-The tuMap package is attached to this tutorial as .tar.gz file and can be installed from source. For this, download the .tar.gz file and follow the code below.
+tuMap package can be downloaded from github. Please make sure you have the devtools package installed prior to tuMap installation.
+
 We provide a .R script that includes the required functions to run this code *funcTutorial.R* (located in the "tutorialCode" directory). This script includes detailed documentation about the functions used by this script, apart of the ones that are implemented in the tuMap package. In addition, it includes the required packages for running the script (including: ggplot2, pheatmap, stringr, Biobase, reshape2, cellAlign, glmnet, survival, survAUC, survminer, psupertime, caret, flowCore, SingleCellExperiment, and emdist). We thus recommend to source this script before running the code.
 Please download all the files located in the "Data" directory maintaining their internal hierarchy. In the following code, we will treat the directory where the data is placed as "dataDir", whose path should be defined in the below script.
 In order to run only the tuMap algorithm on your samples without replicating the whole code for the AML CyTOF dataset, please follow the section entitled: "Application of the tuMap algorithm on the AML samples".
 
 ```R
-#To install a package from source:
-install.packages(path_to_targz_file, repos = NULL, type="source")
+library(devtools)
+install_github("shenorrLab/tuMap")
 #source the funcTutorial.R script:
 source(file.path(path_to_funcTutorial, 'funcTutorial.R'))
 #define the data directory path:
